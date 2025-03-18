@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="Emergency_NEW" />
+              <option name="title_text" value="Emergency_NEW_2" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1555,17 +1555,12 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.67GIygR7vUA" displaytext="Ураган" expand="true" type="slide">
+        <slidelink slideid="_player.6I6hgzcKR7N" displaytext="Землетрясение" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.67GIygR7vUA.6OUKKnp69kT" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.67GIygR7vUA.5pD5sCnY8Fv" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.67GIygR7vUA.5pMxU0uMVbw" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.67GIygR7vUA.6j6exsNYjX5" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.67GIygR7vUA.6CI0rMDUPij" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.67GIygR7vUA.61mVpWkA8Ff" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.67GIygR7vUA.68ODSvq6JrP" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.67GIygR7vUA.6dBHqQKHB1x" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.67GIygR7vUA.6K6XhYNYaX5" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6I6hgzcKR7N.67BMtkAxpEx" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6I6hgzcKR7N.6DWoQZFIHeC" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6I6hgzcKR7N.6LITTk8vDvF" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6I6hgzcKR7N.5lZhXEVGvOT" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
